@@ -1,0 +1,31 @@
+body {
+    background-image: url(Fotos/2269291.jpg);
+    background-size: auto;
+    background-repeat: no-repeat;
+}
+
+
+table {
+    margin-left: 1000px;
+    margin-top: -900px;
+    border: blue 10px ridge;
+}
+
+.SO { 
+    padding: 95px;
+    margin: 5px;
+}
+
+.informacion{
+    display: flex;
+    justify-content: center;
+    border-radius: 90px;
+    background-color: darkgray;
+}
+
+.importante{
+    text-align: center;
+
+}.importante2{
+    text-align: center;
+}

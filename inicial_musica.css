@@ -1,0 +1,15 @@
+header {
+    padding: 20px;
+    text-align: center;
+}
+
+.interfaz {
+    background-color: white ;
+}
+
+body {
+    background-image: url(Fotos/sonicdx.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}

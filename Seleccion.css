@@ -1,0 +1,19 @@
+body {
+    background-image: url(Fotos/Green_hill2.jpg)
+}
+
+.color-shadow {
+    color: black;
+    background-color: darkgray;
+    opacity: 1;
+}
+
+header {
+    background-color: transparent;
+    padding: 20px;
+    text-align: center;
+}
+
+header > nav {
+    background-color: transparent;
+}
