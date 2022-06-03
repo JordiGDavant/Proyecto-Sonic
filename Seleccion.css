@@ -2,6 +2,12 @@ body {
     background-image: url(Fotos/Green_hill2.jpg)
 }
 
+.interfaz{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
 .color-shadow {
     color: black;
     background-color: darkgray;
